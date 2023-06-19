@@ -1,7 +1,7 @@
 import React, {useEffect} from 'react'
 
 // Imported Images =======>
-import imageGrid from '../../assets/images-Grid2.png'
+import imageGrid from '../../assets/Images-Grid2.png'
 // import AOS ============================>
 import Aos from 'aos'
 import 'aos/dist/aos.css'
